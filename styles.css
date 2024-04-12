@@ -1,11 +1,11 @@
-@media screen and (min-width:768px) {
+@media screen and (min-width:901px) {
 body {
   text-align: center;
   background-image: url("./img/background.jpg");
 }
 }
 
-@media screen and (max-width:767px) {
+@media screen and (max-width:900px) {
   body { 
   text-align: center;
   background-image: url("./img/background.jpg");
