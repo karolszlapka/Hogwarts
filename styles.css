@@ -1,0 +1,58 @@
+body {
+  text-align: center;
+  background-image: url("./img/background.jpg");
+}
+
+#level-title {
+  font-family: "Amatic SC", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #FEF2BF;
+  font-size: 7rem;
+  margin:  3%;
+}
+
+
+.container {
+  display: inline-block;
+  width: 100%;
+  margin: auto;
+
+}
+
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 200px;
+  width: 200px;
+  border: 7px solid black;
+  border-radius: 20%;
+  opacity: 90%;
+}
+
+.game-over {
+  background-image: url("");
+  background-color: rgb(25, 118, 62);
+  opacity: 0.8;
+}
+
+.broom {
+  background-image: url("./img/broom.png");
+}
+
+.book {
+  background-image: url("./img/book.png");
+}
+
+.hat {
+  background-image: url("./img/hat.png");
+}
+
+.snitch {
+  background-image: url("./img/snitch.png");
+}
+
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
