@@ -37,6 +37,23 @@ body {
   opacity: 90%;
 }
 
+@media screen and (max-width:900px) {
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 300px;
+  width: 300px;
+  border: 7px solid black;
+  border-radius: 20%;
+  opacity: 90%;
+  min-height: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+}
+
+
 .game-over {
   background-image: url("");
   background-color: rgb(25, 118, 62);
