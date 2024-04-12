@@ -8,8 +8,6 @@ body {
   background-position: center center;
 }
 
-
-
 #level-title {
   font-family: "Amatic SC", sans-serif;
   font-weight: 700;
@@ -50,6 +48,10 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+}
+
+h1 {
+  padding-top: 200px;
 }
 }
 
