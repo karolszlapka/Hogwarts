@@ -1,18 +1,13 @@
-@media screen and (min-width:1301px) {
+
 body {
   text-align: center;
-  background-image: url("./img/background.jpg");
-}
+  background: url("./img/background.jpg") no-repeat center center fixed; 
+  width: 99vw;
+  height: 80vh;
+  background-size: cover;
 }
 
-@media screen and (max-width:1300px) {
-  body { 
-  text-align: center;
-  background-image: url("./img/background.jpg");
-  height: 30vh !important;
-  min-height: unset !important;
-  }
-  }
+
 
 
 
