@@ -1,20 +1,20 @@
-@media screen and (min-width:1101px) {
+@media screen and (min-width:1301px) {
 body {
   text-align: center;
   background-image: url("./img/background.jpg");
 }
 }
 
-@media screen and (max-width:1100px) {
+@media screen and (max-width:1300px) {
   body { 
   text-align: center;
   background-image: url("./img/background.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  width: 100vw;
-  height: 100vh;
+  height: 30vh !important;
+  min-height: unset !important;
   }
   }
+
+
 
 
 #level-title {
