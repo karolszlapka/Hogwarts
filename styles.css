@@ -37,7 +37,7 @@ body {
   opacity: 90%;
 }
 
-@media screen and (max-width:900px) {
+@media screen and (max-width:1200px) {
 .btn {
   margin: 25px;
   display: inline-block;
